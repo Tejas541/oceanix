@@ -74,8 +74,8 @@ The answer could require:
 - currents
 - tides
 - chlorophyll
-- potential fishing zones
-- cyclone information
+- potential fishing zones (https://incois.gov.in/MarineFisheries/PfzAdvisory)
+- cyclone information  (https://www.windy.com/-Hurricane-tracker/hurricanes/one?20.797,77.771,5)
 - location/boundaries
 - vessel-specific constraints
 
