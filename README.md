@@ -60,6 +60,13 @@ oceanix/
 			└── SafetyBarometer.jsx
 ```
 
+Module	Concepts / Technologies	How it is used
+1. Marine Data Processing --> Satellite Data, Remote Sensing, Data Preprocessing	---> Collect and process SST, chlorophyll, wind, waves, currents, weather, PFZ, cyclone and boundary data.
+2. Multi-Agent AI --->	Multi-Agent Systems, LLM, Agent Collaboration	Ocean Agent, ---> Weather Agent and Geo Agent analyze different aspects of the user's query and share their results.
+3. GIS & Spatial Analysis --> GIS, Haversine Distance, Geofencing ---> Locate PFZs, vessels, IMBL/MPA boundaries and hazards, and calculate proximity/route violations.
+4. Risk & Safety Assessment ---> Rule-Based Reasoning, Weighted Risk, Safety Score ---> Combines ocean, weather and spatial information to calculate risk and Safety Index.
+5. Explainable Decision Support ---> Reasoning Engine, Explainable AI, Advisory Generation ---> Combines agent outputs and evidence to generate an explainable marine advisory/recommendation.
+
 ## Requirements
 
 - Node.js 20 or newer
